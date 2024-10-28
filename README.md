@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitriy-Ponomarenko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-ponomarenko-a5b970322) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yumfii_) 
 
 ---
-<br><br><br>
+<br>
 
 ## 💻 Tech Stack:
 ###### Languages
@@ -35,9 +35,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dmitriy-Ponomarenko&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dmitriy-Ponomarenko&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy-Ponomarenko&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Dmitriy-Ponomarenko&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)   ![](https://github-readme-streak-stats.herokuapp.com/?user=Dmitriy-Ponomarenko&theme=one_dark_pro&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dmitriy-Ponomarenko&theme=rose&no-frame=false&no-bg=false&margin-w=4)
