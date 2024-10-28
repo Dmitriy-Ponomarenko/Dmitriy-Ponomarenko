@@ -1,13 +1,16 @@
 ---
-#  Hey! Nice to see you.
-👋 I am Dmitry Ponomarenko — fullstack developer with a strong love for creating efficient, but at the same time beautiful and user-friendly web applications.
+# 😎 Hey, nice to see you here!
+👋 I'm Dmitry, Fullstack developer from Ukraine, currently living in Germany. </br>
+💖 I have a strong love for creating efficient, but at the same time beautiful and user-friendly web applications.</br>
+📚 At this moment studying SASS, Next.js and React Native.
 
-## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitriy-Ponomarenko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-ponomarenko-a5b970322) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yumfii_) 
+
+## 🌐 My Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitriy-Ponomarenko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-ponomarenko-a5b970322) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yumfii_) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yumfii)
 
 ---
-<br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/yumfii?ext=contest)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/yumfii)
 
 ## 💻 Tech Stack:
 ###### Languages
@@ -35,7 +38,7 @@
 ###### Project management
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dmitriy-Ponomarenko&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)   ![](https://github-readme-streak-stats.herokuapp.com/?user=Dmitriy-Ponomarenko&theme=one_dark_pro&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
