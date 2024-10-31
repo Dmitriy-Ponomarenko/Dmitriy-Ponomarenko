@@ -45,4 +45,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Dmitriy-Ponomarenko&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+###### On my way to be a code-psycho, who writes his own game engines and language compilers<br />
 [![](https://visitcount.itsvg.in/api?id=Dmitriy-Ponomarenko&icon=0&color=0)](https://visitcount.itsvg.in)
