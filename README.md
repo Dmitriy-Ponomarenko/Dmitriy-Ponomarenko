@@ -39,7 +39,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dmitriy-Ponomarenko&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)   ![](https://github-readme-streak-stats.herokuapp.com/?user=Dmitriy-Ponomarenko&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Dmitriy-Ponomarenko&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)   ![]()<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dmitriy-Ponomarenko&theme=rose&no-frame=false&no-bg=false&margin-w=4)
