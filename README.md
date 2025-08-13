@@ -9,7 +9,7 @@
 
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/yumfii?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/yumfi?ext=contest)
 
 ## 💻 Tech Stack:
 ###### Languages
