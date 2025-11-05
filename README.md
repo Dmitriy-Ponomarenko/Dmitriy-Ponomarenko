@@ -9,8 +9,8 @@
 
 ---
 
-## Stats
-| LeetCode Statistics | LeetCode Badges |
+## 📊 Stats:
+| 👨‍💻 LeetCode Statistics | 🏅 LeetCode Badges |
 |:--:|:--:|
 | ![Leetcode Stats](https://leetcard.jacoblin.cool/yumfi?ext=contest) | <img src="https://leetcode-badge-showcase.vercel.app/api?username=yumfi&theme=dark&animated=true" alt="LeetCode Badges" /> |
 
