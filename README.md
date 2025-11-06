@@ -12,7 +12,7 @@
 ## 📊 Stats:
 | 👨‍💻 LeetCode Statistics | 🏅 LeetCode Badges |
 |:--:|:--:|
-| ![Leetcode Stats](https://leetcard.jacoblin.cool/yumfi?ext=contest) | <img src="https://leetcode-badge-showcase.vercel.app/api?username=yumfi&theme=dark&animated=true" alt="LeetCode Badges" /> |
+| ![Leetcode Stats](https://leetcard.jacoblin.cool/yumfi?ext=contest) | <img src="https://leetcode-badge-showcase.vercel.app/api?username=yumfi&theme=dark&animated=true&height=100%" alt="LeetCode Badges" /> |
 
 ## 💻 Tech Stack:
 ###### Languages
